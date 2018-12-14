@@ -1,6 +1,6 @@
 # Story-Telling
 
-The Oscars
+## The Oscars
   Great stories and great visual effects
 1. Set up a data science project structure in a new git repository in your GitHub account
 2. Download any of the data sets from previous projects
